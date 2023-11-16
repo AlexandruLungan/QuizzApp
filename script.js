@@ -21,7 +21,7 @@ const questions = [
     question: "Which is the largetst dessert in the world?",
     answers: [
       { text: "Kalahari", correct: false },
-      { text: "Gobi", correct: true },
+      { text: "Gobi", correct: false },
       { text: "Sahara", correct: false },
       { text: "Antarctica", correct: true },
     ],
